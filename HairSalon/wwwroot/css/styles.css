@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(218, 235, 250);
+}
+
+.Stylist a:visited {
+  color: rgb(0, 122, 20);
+}  
+
+.Client a:visited {
+  color: rgb(202, 115, 0);
+}

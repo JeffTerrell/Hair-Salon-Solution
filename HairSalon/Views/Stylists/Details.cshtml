@@ -8,10 +8,14 @@
 <h2>Stylist Details</h2>
 <hr/>
 <h3>Stylist @Html.DisplayNameFor(model => model.Name): @Html.DisplayFor(model => model.Name)<h3>
+<h4>All Clients:<h4>  
 @foreach (Client client in Model.Clients)
 {
-  <li>Client Name: @Html.ActionLink($"{client.Name}", "Details", "Clients", new { id = client.ClientId })</li>
+  <li>@Html.ActionLink($"{client.Name}", "Details", "Clients", new { id = client.ClientId })</li>
 }
+<br>
+<div class="Stylist">
 <p>@Html.ActionLink("View all stylists", "Index")</p>
 <p>@Html.ActionLink("Edit this stylist", "Edit", new { id = Model.StylistId })</p>
 <p>@Html.ActionLink("Delete this stylist", "Delete", new { id = Model.StylistId })</p>
+</div>

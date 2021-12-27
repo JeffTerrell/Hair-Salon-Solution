@@ -9,6 +9,12 @@
 <h3>@Html.DisplayNameFor(model => model.Name): @Html.DisplayFor(model => model.Name)<h3>
 <h3>@Html.DisplayNameFor(model => model.Age): @Html.DisplayFor(model => model.Age)<h3>
 <h3>@Html.DisplayNameFor(model => model.Location): @Html.DisplayFor(model => model.Location)<h3>
+  <div class="Client">
 <p>@Html.ActionLink("View all clients", "Index")</p>
 <p>@Html.ActionLink("Edit this client", "Edit", new { id = Model.ClientId })</p>
 <p>@Html.ActionLink("Delete this client", "Delete", new { id = Model.ClientId })</p>
+</div>
+<br>
+<div class="Stylist">
+<p>@Html.ActionLink("View all stylists", "Index", "Stylists")</p>
+</div>
