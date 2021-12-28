@@ -33,7 +33,7 @@ Navigate to the sub directory "HairSalon" of the cloned main directory on your l
   - _dotnet add package Pomelo.EntityFrameworkCore.MySql -v 5.0.0-alpha.2_
   - _dotnet add package Microsoft.EntityFrameworkCore.Proxies -v 5.0.0_	
 * From the same directory "HairSalon", create a new file called .appsettings.json.		
-* Open this file from with a code editor and add the following:
+* Open this file with a code editor and add the following:
 
   ```
   {
