@@ -18,6 +18,12 @@ A website that allows users to enter stylists and associated clients.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
+## Description
+
+A web application that allows a user to create stylists and add their corresponding clients. This information is saved so that a user can access a specific stylist and view all of that stylist's clients. The user has the ability to edit and delete both stylists and clients.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+
 ## Setup/Installation Requirements
 * If needed, download and install .NET 5 here: https://dotnet.microsoft.com/en-us/download/dotnet/5.0
 * From a terminal, navigate to a directory of your choosing and use the "Git clone" command to copy the repository from this address (https://github.com/JeffTerrell/Hair-Salon-Solution).
