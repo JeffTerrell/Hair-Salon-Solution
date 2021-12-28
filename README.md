@@ -28,7 +28,7 @@ Navigate to the sub directory "HairSalon" of the cloned main directory on your l
   - _dotnet add package Microsoft.EntityFrameworkCore.Proxies -v 5.0.0_	
 * From the same directory "HairSalon", create a new file called .appsettings.json.		
 * Open this file from with a code editor and add the following:
-  - 
+
   ```
   {
   "ConnectionStrings": {
@@ -36,7 +36,7 @@ Navigate to the sub directory "HairSalon" of the cloned main directory on your l
     }
   }
   ```
-* Delete the [] from database and pwd and include correct database name and password
+* Delete the [] from database and pwd and include correct database name and password.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
