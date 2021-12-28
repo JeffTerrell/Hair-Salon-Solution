@@ -42,7 +42,7 @@ Navigate to the sub directory "HairSalon" of the cloned main directory on your l
     }
   }
   ```
-* Delete the [] from database and pwd and include correct database name and password.
+* Delete the [] surrounding database and pwd and include correct database name and password.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
