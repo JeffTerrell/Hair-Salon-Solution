@@ -43,8 +43,6 @@ Navigate to the sub directory "HairSalon" of the cloned main directory on your l
 
 ## Database Setup/Installation Requirments 
 
-![Alt text](HairSalon/wwwroot/images/db_image.jpg?raw=true "Database Image")
-
 After completing the Setup/Installation requirements these next steps will show how to open the database dump file(jeff_terrell) in MySQL Workbench:
 * Open MySQL Workbench and start/create a local instance with localhost:3306.
 * From the left pane Navigator menu click the "Administration" tab and click the "Data Import/Restore" link 
