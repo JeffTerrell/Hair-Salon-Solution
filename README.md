@@ -52,7 +52,7 @@ Navigate to the sub directory "HairSalon" of the cloned main directory on your l
 After completing the Setup/Installation requirements these next steps will show how to open the database dump file(jeff_terrell) in MySQL Workbench:
 * Open MySQL Workbench and start/create a local instance with localhost:3306.
 * From the left pane Navigator menu click the "Administration" tab and click the "Data Import/Restore" link. 
-* From the "Import from disk" tab select the radio button "Import from Self-Contained File" and navigate to the root "Hair-Salon-Solution" directory and choose the "jeff_terrell.sql" database file. Next, click the "New..." button next to "Default Target Schema" and enter a new name for the database.
+* From the "Import from disk" tab select the radio button "Import from Self-Contained File" and navigate to the root "HairSalon.Solution" directory and choose the "jeff_terrell.sql" database file. Next, click the "New..." button next to "Default Target Schema" and enter a new name for the database.
 * Select the "Import Progress" tab and click the "Start Import" button in the bottom right corner.
 * To view the imported database, click the "Schemas" tab from the Navigator Menu, right click in the pane and select "Refresh All".
 
@@ -62,7 +62,7 @@ After completing the Setup/Installation requirements these next steps will show 
 
 ## Run the Application 
   * From a terminal, navigate to the sub directory "HairSalon".
-  * Enter the following command,	"dotnet restore" to create necessary folders and files.
+  * Enter the following command, "dotnet restore" to create necessary folders and files.
   * Next enter the following command, "dotnet run". This will launch the application in your terminal. Enter "Ctrl c" to exit the application at any point.
   * To access the application, load a web browser and in the URL bar insert the specific URL(s) listed in your terminal (ex: Now listening on: http://localhost:5000).
 
