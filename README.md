@@ -81,5 +81,7 @@ After completing the Setup/Installation requirements these next steps will show 
 [MIT](https://opensource.org/licenses/MIT)
 
 Please contact Jeff Terrell via email with any issues, questions, or ideas.
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keidsiri)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keidsiri)
 
 Copyright (c) 2021 Jeff Terrell
