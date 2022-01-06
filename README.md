@@ -49,7 +49,7 @@ Navigate to the sub directory "HairSalon" of the cloned main directory on your l
 
 ## Database Setup/Installation Requirments 
 
-![alt text](https://github.com/JeffTerrell/HairSalon.Solution/tree/main/HairSalon.wwwroot/images/db_image.JPG?raw=true)
+![alt text](https://github.com/JeffTerrell/HairSalon.Solution/blob/main/HairSalon/wwwroot/images/db_image.JPG?raw=true)
 
 After completing the Setup/Installation requirements these next steps will show how to open the database dump file(jeff_terrell) in MySQL Workbench:
 * Open MySQL Workbench and start/create a local instance with localhost:3306.
